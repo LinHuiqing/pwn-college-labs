@@ -1,4 +1,9 @@
 #!/bin/bash
 
-echo "__nzaqmf" > dtmyh #get file content from EXPECTED_RESULT; first 2 bytes ignored
+# 'open("dtmyh", 0)' => read input from "dtmyh" file
+# EXPECTED_RESULT=6e 61 7a 71 6d 66
+# convert to string => nazqmf
+# "skip 2 bytes" => __nzaqmf
+
+echo "__nzaqmf" > dtmyh
 exec /challenges/rev/level4_teaching1

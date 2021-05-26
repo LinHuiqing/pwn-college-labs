@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# no. of vars ("argc > 793") = 793
+# no. of dummy vars = 793-1 = 792
+# EXPECTED_RESULT=697978
+# hex to string => xyi (793rd arg)
+
 cd /challenges/rev
 run_cmd="./level2_teaching1"
 for i in {1..792}
