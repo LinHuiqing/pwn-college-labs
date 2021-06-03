@@ -1,5 +1,9 @@
 import socket
 
+# To solve:
+# 1. run /challenges/rev/level9_testing1 in terminal 1
+# 2. run this script in terminal 2
+
 # from bin ninja: int32_t rax_5 = socket(AF_INET, SOCK_STREAM, 0)
 c = socket.socket(socket.AF_INET, socket.SOCK_STREAM) # for network socket
 # port no from htons(0xb7d2) => 47058

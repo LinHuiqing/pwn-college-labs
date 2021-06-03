@@ -1,5 +1,9 @@
 import socket
 
+# To solve:
+# 1. run /challenges/rev/level8_teaching1 in terminal 1
+# 2. run this script in terminal 2
+
 c = socket.socket(socket.AF_UNIX, socket.SOCK_STREAM) # for domain (/ non-network) socket
 c.connect("hhyhi") # pipe opened by task
 
