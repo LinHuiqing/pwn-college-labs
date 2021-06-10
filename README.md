@@ -6,3 +6,4 @@ Labs were adapted from pwn.college labs:
 
 * Week 2: reverse engineering (rev) level 2-4
 * Week 3: rev level 6, 8-9
+* Week 4: shell level 1, 2, 4
