@@ -1,0 +1,15 @@
+# get 816 from else of read_flag in binary ninja
+malloc
+0
+816
+malloc
+1
+816
+free
+1
+free
+0
+read_flag
+free
+0
+puts_flag

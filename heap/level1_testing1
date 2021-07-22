@@ -1,0 +1,6 @@
+/challenges/heap/level1_testing1
+malloc
+187 # get from puts branch of binary ninja
+free
+read_flag
+puts

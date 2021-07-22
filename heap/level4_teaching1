@@ -1,0 +1,6 @@
+# get from puts branch of binary ninja
+/challenges/heap/level4_teaching1
+malloc 501
+free
+read_flag
+puts
