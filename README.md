@@ -12,3 +12,5 @@ Labs were adapted from pwn.college labs:
 * Week 8: mem level 4, 5, 7
 * Week 9: return-oriented programming (rop) level 2, 3, 4
 * Week 10: heap level 1, 2, 4, 5
+* Week 11: jail level 2, 3, 6
+* Week 12: race level 1, 2_testing, 7_teaching

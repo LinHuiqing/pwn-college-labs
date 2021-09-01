@@ -1,0 +1,6 @@
+t1:
+/challenges/race/level7_teaching1 &
+nc localhost 1337
+
+t2: 
+nc localhost 1337

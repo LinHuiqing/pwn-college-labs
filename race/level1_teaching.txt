@@ -1,0 +1,13 @@
+t1: 
+cd ~
+touch test
+/race_level1_teaching test
+*press enter*
+
+t2: 
+cd ~
+rm test
+ln -s /flag test
+
+t1:
+*press enter*
